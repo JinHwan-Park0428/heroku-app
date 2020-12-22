@@ -1,0 +1,23 @@
+{
+  "name": "heroku-app",
+  "version": "1.0.0",
+  "description": "Hello, World!\r test1\r test2\r test3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinHwan-Park0428/heroku-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinHwan-Park0428/heroku-app/issues"
+  },
+  "homepage": "https://github.com/JinHwan-Park0428/heroku-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
